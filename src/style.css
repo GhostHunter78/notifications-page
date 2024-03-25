@@ -22,9 +22,9 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #10141e;
+  background-color: #fff;
 }
 
-.outfit {
+.jakarta {
   font-family: "Plus Jakarta Sans", sans-serif;
 }
